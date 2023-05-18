@@ -1,0 +1,8 @@
+h2 {
+  font-family: var(--body-font);
+  font-weight: var(--font-semi-bolt);
+  text-transform: uppercase;
+  color: aliceblue;
+  letter-spacing: 1rem;
+  margin: 0.5rem;
+}
